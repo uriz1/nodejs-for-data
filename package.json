@@ -1,0 +1,16 @@
+{
+  "name": "riz",
+  "version": "1.0.0",
+  "description": "BelajarJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "12"
+  },
+  "author": "Riz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "random-words": "^1.2.0"
+  }
+}
